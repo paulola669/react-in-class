@@ -1,0 +1,51 @@
+/* .nav{
+  background-color: rgb(3, 3, 89);
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 3rem;
+  text-transform: capitalize;
+  font-weight: bold;
+}
+.side{
+   background-color: red;
+  width: 300px;
+  
+  height: 80/vh;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  border: 1px solid black;
+}
+#aa{
+  display: flex;
+  justify-content: space-between;
+}
+#rig{
+  border: 2px solid blue;
+  /* display: flex; */
+  /* background-color: blue; */
+  /* justify-content: center; */
+  /* width:300px ; */
+  /* display: flex; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  /* height: 70vh; */
+  /* margin-left:; */
+/* } */
+/* .App{
+  background-color:rgba(0, 0, 0, 0.827);
+}
+
+#las{
+  height: 30vh;
+  background-color: rgb(21, 23, 153);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
+  text-transform: capitalize;
+  font-weight: bold; */
+/* } */ 
